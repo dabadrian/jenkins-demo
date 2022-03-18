@@ -1,0 +1,14 @@
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.deps.json
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.json
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.runtimeconfig.dev.json
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.dll
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.pdb
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csprojAssemblyReference.cache
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfoInputs.cache
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfo.cs
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.dll
+C:\Users\remote.user\source\repos\WebApplication\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.pdb
